@@ -50,7 +50,7 @@ Desktop.ini
 .python-version
 
 # Project runtime output
-outputs/
+# outputs/
 benchmark_plot.png
 
 # Logs
